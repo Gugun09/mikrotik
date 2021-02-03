@@ -9,6 +9,3 @@ echo "/ip address add address=$ADDRESS interface=[/interface ethernet find where
 umount /mnt && \
 echo u > /proc/sysrq-trigger && \
 dd if=chr.img bs=1024 of=/dev/vda
-
-chmod +x mikrotik-chr.sh && \
-./mikrotik-chr.sh
