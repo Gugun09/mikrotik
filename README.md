@@ -1,5 +1,5 @@
 # mikrotik-chr 2021
 Ubuntu To Mikrotik
 <br> How to install
-<br> wget https://raw.githubusercontent.com/janda09/mikrotik/main/mikrotik.sh && chmod +x mikrotik.sh && ./mikrotik.sh
+<br> wget https://raw.githubusercontent.com/Gugun09/mikrotik/main/mikrotik-chr.sh && chmod +x mikrotik-chr.sh && ./mikrotik-chr.sh
 <br> Mikrotik version 6.46.8
